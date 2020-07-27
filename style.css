@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+    display: block;
+}
+h2{
+    text-align: center;
+    display: block;  
+}
+p{
+    text-align: center;
+    display: block;
+}
+a{
+    text-align: center;
+    display: block;
+}
+img{
+    display: block;
+    margin: auto;
+}
+.concierto{
+    margin: auto;
+    text-align: center;
+    display: block;
+}
